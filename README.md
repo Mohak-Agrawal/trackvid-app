@@ -1,5 +1,5 @@
 # TrackVid App
-> Live demo [here](). <!-- If you have the project hosted somewhere, include the link here. -->
+> Live demo [Coming Soon](). <!-- If you have the project hosted somewhere, include the link here. -->
 
 ## Technologies Used
 - React Native
